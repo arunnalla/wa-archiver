@@ -2,7 +2,7 @@
   "name": "wa-archiver",
   "version": "1.0.0",
   "type": "module",
-  "description": "Auto archive messages in the groups that are muted",
+  "description": "Auto archive messages in group chats",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js"

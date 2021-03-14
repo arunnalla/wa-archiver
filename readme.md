@@ -1,6 +1,6 @@
 # WhatsApp Group Archiver
 
-A small utility that automatically archives the group whenever there is a message.
+A small utility that automatically archives the group whenever there is a new message.
 
 ## Running Locally
 
