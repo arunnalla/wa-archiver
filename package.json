@@ -1,0 +1,19 @@
+{
+  "name": "wa-archiver",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Auto archive messages in the groups that are muted",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Arun Nalla <hello@arunnalla.com>",
+  "license": "MIT",
+  "dependencies": {
+    "qrcode": "^1.4.4",
+    "whatsapp-web.js": "^1.12.5"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}
